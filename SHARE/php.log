@@ -1,0 +1,80 @@
+[21-Jul-2019 23:30:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Jul-2019 23:30:22 Asia/Tokyo] デバッグ：「　トップページ　
+[21-Jul-2019 23:30:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Jul-2019 23:30:22 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Jul-2019 23:30:22 Asia/Tokyo] デバッグ：セッションID：s4s4n8k7q8c6tnpjn5cn87b7bm
+[21-Jul-2019 23:30:22 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1563719396
+    [login_limit] => 3600
+    [user_id] => 19
+)
+
+[21-Jul-2019 23:30:22 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1563719422
+[21-Jul-2019 23:30:22 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1563722996
+[21-Jul-2019 23:30:22 Asia/Tokyo] デバッグ：商品情報を取得します。
+[21-Jul-2019 23:30:53 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[21-Jul-2019 23:30:53 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[21-Jul-2019 23:31:23 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[21-Jul-2019 23:31:23 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[21-Jul-2019 23:31:23 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/SHARE/index.php on line 82
+[21-Jul-2019 23:31:23 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/SHARE/index.php on line 87
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：「　トップページ　
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：セッションID：36sqvs4fe3guhup8hq3fs570u4
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1563966481
+    [login_limit] => 3600
+    [user_id] => 19
+)
+
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1563975473
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1563970081
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：商品情報を取得します。
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：「　トップページ　
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：セッションID：6l51urk2v11mnosgll17crj8am
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_date] => 1563966481
+    [login_limit] => 3600
+    [user_id] => 19
+)
+
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1563975473
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1563970081
+[24-Jul-2019 22:37:53 Asia/Tokyo] デバッグ：商品情報を取得します。
+[24-Jul-2019 22:38:23 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[24-Jul-2019 22:38:23 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[24-Jul-2019 22:38:23 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[24-Jul-2019 22:38:23 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[24-Jul-2019 22:38:53 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[24-Jul-2019 22:38:53 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[24-Jul-2019 22:38:53 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/SHARE/index.php on line 82
+[24-Jul-2019 22:38:53 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/SHARE/index.php on line 87
+[24-Jul-2019 22:38:53 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[24-Jul-2019 22:38:53 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[24-Jul-2019 22:38:53 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/SHARE/index.php on line 82
+[24-Jul-2019 22:38:53 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/SHARE/index.php on line 87
+[20-Aug-2019 15:27:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[20-Aug-2019 15:27:34 Asia/Tokyo] デバッグ：「　トップページ　
+[20-Aug-2019 15:27:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[20-Aug-2019 15:27:34 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[20-Aug-2019 15:27:34 Asia/Tokyo] デバッグ：セッションID：l3ndnk9u9j56160s4b6mmv8ul3
+[20-Aug-2019 15:27:34 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[20-Aug-2019 15:27:34 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1566282454
+[20-Aug-2019 15:27:34 Asia/Tokyo] デバッグ：商品情報を取得します。
+[20-Aug-2019 15:28:04 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[20-Aug-2019 15:28:04 Asia/Tokyo] デバッグ：カテゴリー情報を取得します。
+[20-Aug-2019 15:28:34 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[20-Aug-2019 15:28:34 Asia/Tokyo] デバッグ：画面表示処理終了 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[20-Aug-2019 15:28:34 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/SHARE/index.php on line 82
+[20-Aug-2019 15:28:34 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/SHARE/index.php on line 87
