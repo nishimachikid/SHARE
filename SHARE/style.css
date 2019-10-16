@@ -475,7 +475,7 @@ input[type="submit"]:hover {
   position:absolute;
   top:0;
   left:0;
-  z-index: 2; /* 必ずz-indexをつけないと登録画像を変更する際にドラッグ＆ドロップできなくなる*/
+  z-index: 2; 
 }
 .form .prev-img{
   width:100%;
